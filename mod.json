@@ -1,0 +1,11 @@
+{
+    "Name": "Iamadeadpixel's Pimped Ammo and Medic bag",
+    "Description": "Pimped Bags",
+    "Version": "1.0.0",
+    "Authors": [ "iamadeadpixel" ],
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    },
+    "Tags": [ "pimped-bags" ]
+}
